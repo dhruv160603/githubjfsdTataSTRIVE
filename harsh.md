@@ -4,3 +4,4 @@
 2. clone using "git clone https://github.com/hkjhacode/githubjfsdTataSTRIVE.git"
 3. Create a new file of markdown and This file is created
 4. hello
+5. commit for stash
